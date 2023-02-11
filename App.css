@@ -1,0 +1,46 @@
+.App {
+  background-color: #1E1E1E;
+  align-content: center;
+  width: 100vw;
+  height: 100vh;
+}
+.container {
+  background: #000000;
+  width: 60%;
+  height: 70%;
+  align-content: center;
+  text-align: center;
+  position: relative;
+   Top: 90px;
+  left: 250px;
+  right:250px ; 
+}
+h1 {
+  color: #ffffff;
+  font-size: 45px;
+}
+.input {
+  box-sizing: border-box;
+  border: 2px solid #ffffff;
+  background: black;
+  color: #ffffff;
+  font-size: 15px;
+  margin: 10px;
+  height: 40px;
+  width: 220px;
+}
+.inputf {
+  border: none;
+  box-sizing: none;
+  background: black;
+  font-size: 19px;
+  margin: 10px;
+  height: 40px;
+  width: 220px;
+  color: white;
+}
+button {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}
